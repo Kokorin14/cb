@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1744304121 source:c:\users\guzno\documents\code\qwerty\menu.c
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"../../stb-master/stb-master/stb_easy_font.h"
+	"menu.h"
+
+1674029753 c:\users\guzno\documents\stb-master\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1744299639 c:\users\guzno\documents\code\qwerty\menu.h
+
+1744360238 source:c:\users\guzno\documents\code\qwerty\main.c
+	<windows.h>
+	<gl/gl.h>
+	<stdbool.h>
+	"../../stb-master/stb-master/stb_image.h"
+	"menu.h"
+
+1674029753 c:\users\guzno\documents\stb-master\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
